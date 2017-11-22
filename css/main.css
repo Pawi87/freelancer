@@ -1,3 +1,79 @@
-/*
- * Estilos de tu proyecto
- */
+
+
+    
+    nav {
+  background: #2c3e50;
+  width: 100%;
+  height: 60px;
+  padding: 25px 0px;
+  position: fixed;
+  font-family: 'Montserrat'; 
+  font-weight: 700;
+  color: white;
+    
+}
+
+body {    
+    
+  /* Establece la fuente de Google aquí */
+  margin: 0px;
+  font-size: 16px;
+  background-color: #18BC9C;
+  color: white;
+    position: relative;
+
+    }
+
+main {
+  padding-top: 200px;
+    padding-bottom: 100px;
+    
+}
+
+button {
+  background: #18bc9c;
+  border: #18bc9c;
+  font-weight: 700;
+  font-family: 'Lato';
+  font-size: 20px;
+  width: 100px;
+  height: 45px;
+  color: white;
+  border-radius: 5px;
+  margin-top: 20px;
+}
+
+    .container {
+  width: 80%;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+ #portfolio, #contact {
+  background: white;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  text-align: center;
+  height: auto;
+  font-family: 'Montserrat';
+  color: white;
+  line-height: 4px;
+
+}
+
+.portfolio-images > img {
+  display: inline-block;
+  width: 330px;
+  height: auto;
+  margin: 13px;
+}
+
+
+footer {
+  background: #2c3e50;
+  width: 100%;
+  height: 30 px;
+  padding: 20px 0px;
+  color: white;
+}
+    
